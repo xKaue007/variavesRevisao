@@ -1,5 +1,5 @@
 public class BalancoTrimestral{
-    public satatic void main (String args[]){
+    public static void main (String args[]){
         int gastosJaneiro=15000;
         int gastosFevereiro=22000;
         int gastosMarco=17000;
